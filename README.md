@@ -34,6 +34,7 @@ Please add yourself, or someone who is comfortable being on this list, in alphab
 * [Maria Andreina Francisco Rodriguez](http://www.it.uu.se/katalog/marfr379), Uppsala University, Sweden
 * [Philippa Gardner](https://www.doc.ic.ac.uk/~pg/), Imperial College London, UK
 * [Lilia Georgieva](https://www.linkedin.com/in/liliageorgievageorgieva/), Heriot Watt University, Edinburgh, UK
+* [Lourdes del Carmen González Huesca](https://lya.fciencias.unam.mx/lcgh/web/), Universidad Nacional Autónoma de México, Mexico
 * [Alessandra Gorla](http://software.imdea.org/~alessandra.gorla/), IMDEA Software Institute, Madrid, Spain
 * [Mary Hall](http://www.cs.utah.edu/~mhall/), University of Utah, USA
 * [Regina Hebig](https://www.chalmers.se/en/staff/Pages/hebig.aspx), Chalmers Gothenburg University, Sweden
